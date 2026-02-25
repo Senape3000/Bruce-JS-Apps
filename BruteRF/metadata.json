@@ -1,0 +1,13 @@
+{
+  "name": "BruteRF",
+  "description": "Complete RF brute-force tool with 34 protocols, De Bruijn attack, universal sweep, RAW brute-force, pause/replay mode, .sub file saving. Responsive UI for all screen sizes.",
+  "category": "RF",
+  "version": "1.0.0",
+  "commit": "UPDATE_WITH_COMMIT_SHA_AFTER_PUSH",
+  "owner": "Senape3000",
+  "repo": "Bruce-JS-Apps",
+  "path": "/BruteRF/",
+  "files": [
+    "BruteRF.js"
+  ]
+}
