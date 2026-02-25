@@ -1,0 +1,20 @@
+{
+  "name": "ProtoPirate",
+  "description": "Car key fob decoder and emulator with 16 protocols (Kia, Ford, Subaru, Suzuki, Chrysler, StarLine, Scher-Khan, Fiat, PSA, VAG). Full crypto suite with KeeLoq, TEA, PSA XOR. 9 emulatable protocols with counter advance and button remapping.",
+  "category": "RF",
+  "version": "1.0.0",
+  "commit": "UPDATE_WITH_COMMIT_SHA_AFTER_PUSH",
+  "owner": "Senape3000",
+  "repo": "Bruce-JS-Apps",
+  "path": "/ProtoPirate/",
+  "supported-devices": [
+    "Lilygo T-Embed CC1101",
+    "Lilygo T-Embed CC1101 Plus"
+  ],
+  "files": [
+    {
+      "source": "ProtoPirate_6.js",
+      "destination": "ProtoPirate.js"
+    }
+  ]
+}
